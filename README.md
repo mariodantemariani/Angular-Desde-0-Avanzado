@@ -1,6 +1,6 @@
 # Repositorio Avanzado de Aprendizaje de Angular - Gentleman Programming
 
-¡Bienvenidos al repositorio oficial de Gentleman Programming dedicado al proyecto de Angular que redefine la forma en que abordamos las clases avanzadas! Aquí, sumérgete en un viaje de aprendizaje profundo y exhaustivo, donde exploramos los conceptos de React desde los cimientos hasta niveles inexplorados.
+¡Bienvenidos al repositorio oficial de Gentleman Programming dedicado al proyecto de Angular que redefine la forma en que abordamos las clases avanzadas! Aquí, sumérgete en un viaje de aprendizaje profundo y exhaustivo, donde exploramos los conceptos de Angular desde los cimientos hasta niveles inexplorados.
 
 ## ¿Qué hace a este repositorio especial?
 
@@ -16,7 +16,7 @@
 
 - **Comunidad Activa:** Únete a la comunidad de Gentleman Programming en línea para discutir conceptos, hacer preguntas, compartir tus logros y colaborar en el aprendizaje mutuo. Estamos aquí para apoyarte en cada paso.
 
-¿Estás listo para llevar tus habilidades de Angular más allá de lo convencional? Claro, puedes encontrar tutoriales en todas partes, pero aquí en Gentleman Programming, te desafiamos a sumergirte en el núcleo mismo de React y dominar sus aspectos avanzados como nunca antes. ¡Únete a nosotros y déjate llevar por este emocionante viaje de aprendizaje!
+¿Estás listo para llevar tus habilidades de Angular más allá de lo convencional? Claro, puedes encontrar tutoriales en todas partes, pero aquí en Gentleman Programming, te desafiamos a sumergirte en el núcleo mismo de Angular y dominar sus aspectos avanzados como nunca antes. ¡Únete a nosotros y déjate llevar por este emocionante viaje de aprendizaje!
 
 🌐 ¡Explora más en el siguiente [link](https://linktr.ee/gentlemanprogramming)
 
